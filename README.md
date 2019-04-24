@@ -76,8 +76,8 @@ To complete a lab and move on, you must do two things:
   terminal to let Learn know that you're ready to move to the next lesson.
 
 Occasionally, you may encounter labs that do not have tests which we call _code
-alongs_. These labs do not have any tests to solve, but are designed for a
-hands on approach to learning a concept. For these, you will not need to run
+alongs_. These labs do not have any tests to solve but are designed for a
+hands-on approach to learning a concept. For these, you will not need to run
 `learn` to pass tests, but _will_ need to run `learn submit` when you are
 finished.
 
